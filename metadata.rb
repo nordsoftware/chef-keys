@@ -1,4 +1,5 @@
 maintainer        "Carlo Zottmann"
+name              "keys"
 maintainer_email  "carlo@zottmann.org"
 license           "WTFPL"
 description       "Creates keys in /home/chef/.ssh/ from a data bag"
